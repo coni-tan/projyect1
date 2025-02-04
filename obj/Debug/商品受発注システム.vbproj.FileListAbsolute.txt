@@ -1,0 +1,602 @@
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\bin\Debug\商品受発注システム.exe.config
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\bin\Debug\商品受発注システム.exe
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\bin\Debug\商品受発注システム.pdb
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\bin\Debug\商品受発注システム.xml
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\bin\Debug\MySql.Data.dll
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.vbproj.AssemblyReference.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form1.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form2.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form3.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form4.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form5.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Resources.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.vbproj.GenerateResource.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.vbproj.CoreCompileInputs.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.vbproj.Up2Date
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.exe
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.xml
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.pdb
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form6.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form10.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form11.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form7.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form8.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form9.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form12.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form13.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form14.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form15.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form16.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form17.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form18.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form19.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form20.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form21.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form22.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form23.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form24.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form25.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form26.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form27.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form28.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form29.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form30.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\bin\Debug\商品受発注システム.exe.config
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\bin\Debug\商品受発注システム.exe
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\bin\Debug\商品受発注システム.pdb
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\bin\Debug\商品受発注システム.xml
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\bin\Debug\MySql.Data.dll
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.vbproj.AssemblyReference.cache
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form1.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form10.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form11.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form12.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form13.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form14.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form15.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form16.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form17.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form18.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form19.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form2.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form20.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form21.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form22.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form23.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form24.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form25.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form26.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form27.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form28.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form29.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form3.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form30.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form4.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form5.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form6.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form7.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form8.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form9.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Resources.resources
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.vbproj.GenerateResource.cache
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.vbproj.CoreCompileInputs.cache
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.vbproj.Up2Date
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.exe
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.xml
+C:\Users\cloud\Desktop\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.pdb
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\bin\Debug\商品受発注システム.exe.config
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\bin\Debug\商品受発注システム.exe
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\bin\Debug\商品受発注システム.pdb
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\bin\Debug\商品受発注システム.xml
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\bin\Debug\MySql.Data.dll
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.vbproj.AssemblyReference.cache
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form1.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form10.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form11.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form12.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form13.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form14.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form15.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form16.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form17.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form18.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form19.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form2.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form20.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form21.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form22.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form23.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form24.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form25.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form26.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form27.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form28.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form29.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form3.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form30.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form4.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form5.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form6.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form7.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form8.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Form9.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.Resources.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.vbproj.GenerateResource.cache
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.vbproj.CoreCompileInputs.cache
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.vbproj.Up2Date
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.exe
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.xml
+C:\Users\cloud\Desktop\進級制作\商品受発注システム\商品受発注システム\obj\Debug\商品受発注システム.pdb
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\bin\Debug\商品受発注システム.exe.config
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\bin\Debug\商品受発注システム.exe
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\bin\Debug\商品受発注システム.pdb
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\bin\Debug\商品受発注システム.xml
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\bin\Debug\MySql.Data.dll
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.vbproj.AssemblyReference.cache
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form1.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form10.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form11.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form12.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form13.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form14.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form15.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form16.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form17.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form18.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form19.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form2.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form20.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form21.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form22.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form23.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form24.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form25.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form26.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form27.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form28.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form29.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form3.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form30.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form4.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form5.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form6.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form7.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form8.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Form9.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.Resources.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.vbproj.GenerateResource.cache
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.vbproj.CoreCompileInputs.cache
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.vbproj.Up2Date
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.exe
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.xml
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0106_3\商品受発注システム\obj\Debug\商品受発注システム.pdb
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\bin\Debug\商品受発注システム.exe.config
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\bin\Debug\商品受発注システム.exe
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\bin\Debug\商品受発注システム.pdb
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\bin\Debug\商品受発注システム.xml
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\bin\Debug\MySql.Data.dll
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.vbproj.AssemblyReference.cache
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form1.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form10.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form11.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form12.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form13.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form14.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form15.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form16.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form17.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form18.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form19.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form2.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form20.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form21.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form22.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form23.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form24.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form25.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form26.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form27.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form28.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form29.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form3.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form30.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form4.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form5.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form6.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form7.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form8.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form9.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Resources.resources
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.vbproj.GenerateResource.cache
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.vbproj.CoreCompileInputs.cache
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.vbproj.Up2Date
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.exe
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.xml
+C:\Users\cloud\Desktop\進級制作\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.pdb
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\bin\Debug\商品受発注システム.exe.config
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\bin\Debug\商品受発注システム.exe
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\bin\Debug\商品受発注システム.pdb
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\bin\Debug\商品受発注システム.xml
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\bin\Debug\MySql.Data.dll
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.vbproj.AssemblyReference.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form1.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form10.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form11.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form12.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form13.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form14.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form15.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form16.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form17.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form18.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form19.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form2.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form20.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form21.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form22.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form23.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form24.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form25.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form26.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form27.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form28.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form29.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form3.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form30.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form4.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form5.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form6.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form7.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form8.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Form9.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.Resources.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.vbproj.GenerateResource.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.vbproj.CoreCompileInputs.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.vbproj.Up2Date
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.exe
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.xml
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0107_2\商品受発注システム\obj\Debug\商品受発注システム.pdb
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\bin\Debug\商品受発注システム.exe.config
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\bin\Debug\商品受発注システム.exe
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\bin\Debug\商品受発注システム.pdb
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\bin\Debug\商品受発注システム.xml
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\bin\Debug\MySql.Data.dll
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.AssemblyReference.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form1.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form10.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form11.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form12.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form13.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form14.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form15.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form16.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form17.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form18.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form19.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form2.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form20.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form21.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form22.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form23.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form24.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form25.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form26.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form27.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form28.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form29.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form3.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form30.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form4.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form5.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form6.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form7.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form8.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Form9.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.Resources.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.GenerateResource.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.CoreCompileInputs.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.Up2Date
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.exe
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.xml
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0109_1\商品受発注システム\obj\Debug\商品受発注システム.pdb
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\bin\Debug\商品受発注システム.exe.config
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\bin\Debug\商品受発注システム.exe
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\bin\Debug\商品受発注システム.pdb
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\bin\Debug\商品受発注システム.xml
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\bin\Debug\MySql.Data.dll
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.AssemblyReference.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form1.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form10.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form11.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form12.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form13.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form14.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form15.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form16.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form17.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form18.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form19.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form2.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form20.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form21.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form22.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form23.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form24.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form25.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form26.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form27.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form28.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form29.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form3.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form30.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form4.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form5.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form6.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form7.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form8.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Form9.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.Resources.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.GenerateResource.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.CoreCompileInputs.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.Up2Date
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.exe
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.xml
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0110_1\商品受発注システム\obj\Debug\商品受発注システム.pdb
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\bin\Debug\商品受発注システム.exe.config
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\bin\Debug\商品受発注システム.exe
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\bin\Debug\商品受発注システム.pdb
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\bin\Debug\商品受発注システム.xml
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\bin\Debug\MySql.Data.dll
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.AssemblyReference.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form1.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form10.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form11.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form12.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form13.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form14.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form15.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form16.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form17.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form18.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form19.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form2.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form20.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form21.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form22.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form23.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form24.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form25.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form26.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form27.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form28.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form29.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form3.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form30.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form4.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form5.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form6.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form7.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form8.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Form9.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.Resources.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.GenerateResource.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.CoreCompileInputs.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.Up2Date
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.exe
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.xml
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0115_1\商品受発注システム\obj\Debug\商品受発注システム.pdb
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\bin\Debug\商品受発注システム.exe.config
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\bin\Debug\商品受発注システム.exe
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\bin\Debug\商品受発注システム.pdb
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\bin\Debug\商品受発注システム.xml
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\bin\Debug\MySql.Data.dll
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.AssemblyReference.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form1.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form10.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form11.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form12.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form13.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form14.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form15.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form16.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form17.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form18.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form19.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form2.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form20.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form21.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form22.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form23.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form24.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form25.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form26.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form27.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form28.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form29.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form3.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form30.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form4.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form5.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form6.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form7.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form8.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Form9.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.Resources.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.GenerateResource.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.CoreCompileInputs.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.Up2Date
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.exe
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.xml
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0116_1\商品受発注システム\obj\Debug\商品受発注システム.pdb
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\bin\Debug\商品受発注システム.exe.config
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\bin\Debug\商品受発注システム.exe
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\bin\Debug\商品受発注システム.pdb
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\bin\Debug\商品受発注システム.xml
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\bin\Debug\MySql.Data.dll
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.AssemblyReference.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form1.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form10.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form11.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form12.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form13.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form14.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form15.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form16.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form17.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form18.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form19.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form2.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form20.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form21.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form22.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form23.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form24.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form25.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form26.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form27.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form28.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form29.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form3.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form30.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form4.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form5.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form6.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form7.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form8.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Form9.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.Resources.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.GenerateResource.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.CoreCompileInputs.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.Up2Date
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.exe
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.xml
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0122_1\商品受発注システム\obj\Debug\商品受発注システム.pdb
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\bin\Debug\商品受発注システム.exe.config
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\bin\Debug\商品受発注システム.exe
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\bin\Debug\商品受発注システム.pdb
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\bin\Debug\商品受発注システム.xml
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\bin\Debug\MySql.Data.dll
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.AssemblyReference.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form1.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form10.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form11.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form12.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form13.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form14.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form15.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form16.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form17.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form18.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form19.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form2.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form20.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form21.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form22.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form23.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form24.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form25.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form26.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form27.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form28.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form29.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form3.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form30.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form4.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form5.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form6.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form7.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form8.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form9.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Resources.resources
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.GenerateResource.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.CoreCompileInputs.cache
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.Up2Date
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.exe
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.xml
+C:\Users\HDC242318\Documents\Visual Studio 2022\Projects\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.pdb
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\bin\Debug\商品受発注システム.exe.config
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\bin\Debug\商品受発注システム.exe
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\bin\Debug\商品受発注システム.pdb
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\bin\Debug\商品受発注システム.xml
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\bin\Debug\MySql.Data.dll
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.AssemblyReference.cache
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form1.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form10.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form11.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form12.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form13.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form14.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form15.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form16.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form17.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form18.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form19.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form2.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form20.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form21.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form22.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form23.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form24.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form25.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form26.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form27.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form28.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form29.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form3.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form30.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form4.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form5.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form6.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form7.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form8.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Form9.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.Resources.resources
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.GenerateResource.cache
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.CoreCompileInputs.cache
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.vbproj.Up2Date
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.exe
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.xml
+C:\Users\cloud\Desktop\商品受発注システム 0130_1\商品受発注システム\obj\Debug\商品受発注システム.pdb
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\bin\Debug\商品受発注システム.exe.config
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\bin\Debug\商品受発注システム.exe
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\bin\Debug\商品受発注システム.pdb
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\bin\Debug\商品受発注システム.xml
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\bin\Debug\MySql.Data.dll
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.vbproj.AssemblyReference.cache
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form1.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form10.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form11.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form12.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form13.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form14.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form15.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form16.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form17.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form18.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form19.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form2.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form20.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form21.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form22.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form23.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form24.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form25.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form26.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form27.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form28.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form29.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form3.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form30.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form4.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form5.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form6.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form7.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form8.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Form9.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.Resources.resources
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.vbproj.GenerateResource.cache
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.vbproj.CoreCompileInputs.cache
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.vbproj.Up2Date
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.exe
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.xml
+C:\Users\cloud\Desktop\商品受発注システム 0202\商品受発注システム\obj\Debug\商品受発注システム.pdb
